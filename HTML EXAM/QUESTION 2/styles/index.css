@@ -1,0 +1,36 @@
+h2{color:black;
+    font-weight: 80;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size:50px;
+    
+    color: blue;
+}
+.details a{
+    font-weight: 600;
+    font-size: 30px;
+    text-align: left;
+    position: relative;left: 20%;right: 20%;
+    color: orangered;
+    background-color:orange;
+    padding-right: 110px;
+    padding-left: 110px;
+    cursor: pointer;
+
+}
+a:hover{
+    color: white;
+}
+p{
+    position: absolute;
+    margin-left: 10px;
+    font-size: 20px;
+    
+}
+body{
+    background-image: url(../images/local-food-lusaniya.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }

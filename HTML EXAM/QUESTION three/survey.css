@@ -1,0 +1,22 @@
+.container{
+    background-color: lightblue;
+    padding-bottom: 10px;
+    text-align: center;
+    padding-top: 5px;
+}
+body{
+    margin: opx;
+}
+section{
+    display: flex;
+    
+    justify-content: center;
+}
+#name, #email, #age{
+    margin-bottom: 10px;
+    padding-left: 60px;
+}
+label{
+    padding-right: 20px;
+}
+    

@@ -1,0 +1,15 @@
+h1{
+    font-size: 40px;
+    color: orange;
+    text-align: center;
+}
+div{
+    font-size: 30px;
+    color: white;
+}
+body{
+    background-color: black;
+}
+a:hover{
+    color: white;
+}
